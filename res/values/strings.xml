@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DessinHelper!</string>
+    <string name="app_name">Dessin Helper</string>
+    <string name="pref_title_grid">grid</string>
+    <string name="pref_title_grid_width">grid width</string>
+    <string name="pref_title_grid_height">grid height</string>
+    <string name="pref_title_grid_color">grid color</string>
+    <string name="pref_key_grid_width">grid_width</string>
+    <string name="pref_key_grid_height">grid_height</string>
+    <string name="pref_key_grid_color">grid_color</string>
+    <string name="menu_title_pref">Settings</string>
+    <string name="menu_title_exit">Exit</string>
+</resources>
